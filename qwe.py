@@ -21,3 +21,5 @@ for i in range(1, n + 1):
         sp2.append((i, j))
 print(sp2)
 
+#nbg fgegenengn;ewr типо изменение
+
